@@ -1,3 +1,6 @@
 MNIST_data/
 .ipynb_checkpoints/
 img/
+cyber_image/
+summary/
+**/*.pyc
